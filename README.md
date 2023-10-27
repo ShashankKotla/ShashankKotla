@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm *Shashank*, A normal *Computer Science Student.* 💻.
+I'm *Shashank*, *CS Graduate - 2023* 💻.
