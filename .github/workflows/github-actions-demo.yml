@@ -1,8 +1,10 @@
 name: Update README
+
 on:
   schedule:
     - cron: "*/30 * * * *"
   workflow_dispatch:
+
 jobs:
   build:
     name: Update this repo's README with recent activity
@@ -18,7 +20,8 @@ jobs:
         with:
           COMMIT_MSG: "Specify a custom commit message"
           MAX_LINES: 5
-          COMMIT_NAME: GitHub Activity Readme
+          COMMIT_NAME: "GitHub Activity Readme"
+
 
 
 #           - name: GitHub - Activity - Readme
