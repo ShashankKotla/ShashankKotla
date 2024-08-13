@@ -88,7 +88,7 @@ toggle
 
 <b>My GitHub Stats</b>
 
-<div style="display: flex; justify-content: space-evenly; flex-wrap: nowrap;">
+<div style="display: flex; justify-content: space-evenly; flex-wrap: nowrap;height: 350px; width:350px;">
   <a href="http://www.github.com/shashankkotla">
     <img src="https://github-readme-stats.vercel.app/api?username=shashankkotla&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="shashankkotla's GitHub stats" style="max-width: 45%;"/>
   </a>
