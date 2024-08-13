@@ -19,10 +19,9 @@ jobs:
           GH_USERNAME: ShashankKotla # optional, default is ${{ github.repository_owner }}
           COMMIT_NAME: GitHub Activity Readme # optional, default is github-actions[bot]
           COMMIT_EMAIL: shashankkotla50@gmail.com # optional, default is 41898282+github-actions[bot]@users.noreply.github.com
-          COMMIT_MSG: "Specify a custom commit message" # optional, default is :zap: Update README with the recent activity
+          COMMIT_MSG: ":zap: Update README with recent activity" # optional, default is :zap: Update README with the recent activity
           MAX_LINES: 5 # optional, default is 5
           TARGET_FILE: README.md # optional, default is README.md
           EMPTY_COMMIT_MSG: ":memo: empty commit to keep workflow active after 60 days of no activity" # optional
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
