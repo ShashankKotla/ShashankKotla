@@ -14,11 +14,11 @@ jobs:
 
     steps:
       - uses: actions/checkout@v3
-      - uses: jamesgeorge007/github-activity-readme@v0.4.4
+      - uses: ShashankKotla/github-activity-readme@v0.4.4
         with:
-          GH_USERNAME: shashankkotla # optional, default is ${{ github.repository_owner }}
+          GH_USERNAME: ShashankKotla # optional, default is ${{ github.repository_owner }}
           COMMIT_NAME: GitHub Activity Readme # optional, default is github-actions[bot]
-          COMMIT_EMAIL: your-email@example.com # optional, default is 41898282+github-actions[bot]@users.noreply.github.com
+          COMMIT_EMAIL: shashankkotla50@gmail.com # optional, default is 41898282+github-actions[bot]@users.noreply.github.com
           COMMIT_MSG: "Specify a custom commit message" # optional, default is :zap: Update README with the recent activity
           MAX_LINES: 5 # optional, default is 5
           TARGET_FILE: README.md # optional, default is README.md
