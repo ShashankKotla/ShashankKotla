@@ -45,13 +45,7 @@ toggle
 
 <a href="https://www.hackerrank.com/@kotlashashank251" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@kotlashashank251" height="30" width="40" /></a>
 
-
-<div style="display: flex; justify-content:space-evenly">
-<a href="http://www.github.com/shashankkotla"><img src="https://github-readme-stats.vercel.app/api?username=shashankkotla&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="shashankkotla's GitHub stats" /></a>
-<a href="http://www.github.com/shashankkotla"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shashankkotla&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/shashankkotla" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashankkotla&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-</div>
+### Badges
 
 -->
 
@@ -90,25 +84,22 @@ toggle
 <p align="left"> <a href="https://www.github.com/shashankkotla" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/shashank-k-684a37229/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a>
 </p>
 
-
-
-### Badges
 ### Badges
 
 <b>My GitHub Stats</b>
 
-<div style="display: flex; justify-content: space-evenly;">
+<div style="display: flex; justify-content: space-evenly; flex-wrap: nowrap;">
   <a href="http://www.github.com/shashankkotla">
-    <img src="https://github-readme-stats.vercel.app/api?username=shashankkotla&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="shashankkotla's GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=shashankkotla&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="shashankkotla's GitHub stats" style="max-width: 45%;"/>
   </a>
   <a href="http://www.github.com/shashankkotla">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shashankkotla&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="shashankkotla's GitHub streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shashankkotla&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="shashankkotla's GitHub streak" style="max-width: 45%;"/>
   </a>
 </div>
 
 <div style="text-align: left;">
   <a href="https://github.com/shashankkotla">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashankkotla&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashankkotla&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" style="max-width: 100%;"/>
   </a>
 </div>
 
@@ -120,5 +111,3 @@ toggle
 <!--END_SECTION:activity-->
 
 ---
-
-
