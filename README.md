@@ -113,5 +113,3 @@ toggle
 ---
 
 
-![Recent Activity](https://github-readme-stats.vercel.app/api?username=ShashankKotla&show_icons=true&count_private=true)
-
