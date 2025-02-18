@@ -68,9 +68,6 @@ toggle
 
 
 *🤝  I'm open to collaborating on Projects* 
-*⚡  I'm Dr. Victor von Doom*
-*😄 Pronouns: He/Him*
-
 
 
 ### Skills  
