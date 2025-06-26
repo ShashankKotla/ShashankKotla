@@ -2,7 +2,7 @@
 <!--
 ### Hi There! 👋
 
-I'm ***Shashank Kotla***, *CS Graduate - 2023* 💻.
+I'm ***Shashank***, *CS Graduate - 2023* 💻.
 **KotlaShashank/KotlaShashank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
